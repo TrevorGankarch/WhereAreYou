@@ -40,7 +40,6 @@ Want to contribute? Great! Fork and send pull request.
 
 ### License
 
-MIT
+Tracking service shortener.
 
-### Donate via PayPal
-[paypal.me/neelkadia](https://paypal.me/neelkadia)
+
